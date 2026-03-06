@@ -59,4 +59,4 @@ Praticar conceitos fundamentais de desenvolvimento front-end, organização de l
 
 ## 🚀 Status
 
-✅ Projeto concluído para fins de estudo em HTML e CSS.
+ Projeto concluído para fins de estudo em HTML e CSS.
